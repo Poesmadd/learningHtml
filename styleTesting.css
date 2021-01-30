@@ -40,12 +40,9 @@ h1 {
   margin-right: 25px;
 }
 
-#smileDiv {
-
-}
 
 #smileButton {
-
+  border: none;
 }
 
 .center {
