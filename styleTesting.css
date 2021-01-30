@@ -39,3 +39,7 @@ h1 {
 .toppings label, .cheesy label {
   margin-right: 25px;
 }
+
+button.new-button:focus {
+    outline: none;
+}
