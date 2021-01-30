@@ -43,10 +43,12 @@ h1 {
 
 #smileDiv {
   border: none;
+  outline:none;
 }
 
 #smileButton {
   border: none;
+  outline:none;
 }
 
 .center {
