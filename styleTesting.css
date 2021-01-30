@@ -48,8 +48,9 @@ smileButton {
 text-align: center !important;
 }
 
-img {
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width:50%;
 }
